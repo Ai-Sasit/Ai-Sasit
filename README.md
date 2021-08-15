@@ -2,7 +2,7 @@
 - 👀 I’m interested in Future of Technology
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m study at Ubon ratchathani university
-- 💻 I have an understanding of coding Python Java HTML CSS
+- 💻 I have an understanding of coding Python Java HTML CSS JavaScript
 - 📫 Contact me on Facebook: Ai-Sasit
 <!---
 Ai-Sasit/Ai-Sasit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
