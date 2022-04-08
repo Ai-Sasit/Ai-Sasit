@@ -8,6 +8,10 @@
 
 [![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
 
+```diff
+@@        Extra Contacts        @@
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-Sasit&langs_count=6&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ai-Sasit&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
