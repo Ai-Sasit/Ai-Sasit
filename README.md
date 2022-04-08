@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Ai-Sasit
-- 👀 I’m interested in Future of Technology
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m study at Ubon ratchathani university
-- 💻 I have an understanding of coding Python Java HTML CSS JavaScript
-- 🔮 I’m good at ReactJs Python NodeJs 
-<!---
-Ai-Sasit/Ai-Sasit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi!
+- 🙃 My nickname is Ai.
+- 🎓 I'm studying in faculty of computer science at ubon ratchathani university.
+- 👀 I’m interested in [Nodejs](https://nodejs.org/en/).
+- 🌟 I'm favorite in [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [RemixJS](https://remix.run/), [NextronJS](https://github.com/saltyshiomix/nextron).
+- 🍾 Discord: [`Aiz#8582`](https://discord.com/users/248843732412006401)
+- 📩 Email: [`sasit2555@gmail.com`](mailto:sasit2555@gmail.com)
+
+[![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/xckZRGyDrM)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-Sasit&langs_count=6&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ai-Sasit&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
