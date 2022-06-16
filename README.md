@@ -1,3 +1,5 @@
+<img src="https://images.squarespace-cdn.com/content/v1/5dda9f2de3177e778547286c/1575538455084-IZ7TBL2JZJECDXLRTRF5/repair.gif?format=1000w?raw=true" height="200px">
+
 # Hi!
 - 🙃 My nickname is Ai.
 - 🔭 I'm current learning is [Ionic(angular)](https://ionicframework.com/), [Preact](https://preactjs.com/).
