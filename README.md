@@ -3,7 +3,7 @@
 # Hi! I'm Developer from Thailand
 - 🙃 My nickname is Ai.
 - 🔭 I'm current learning is [Go](https://go.dev/).
-- 🎓 I will graduated in faculty of computer science at [ubon ratchathani university](https://www.ubu.ac.th/).
+- 🎓 I graduated in faculty of computer science at [ubon ratchathani university](https://www.ubu.ac.th/).
 - 👀 I’m interested in [Nodejs](https://nodejs.org/en/), [GoLang](https://go.dev/), [Python](https://www.anaconda.com/products/distribution), [Kotlin](https://kotlinlang.org/).
 - 🌟 I'm favorite in [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [NextronJS](https://github.com/saltyshiomix/nextron), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Ionic](https://ionicframework.com/).
 - 🍾 Discord: [`Aiz#8582`](https://discord.com/users/248843732412006401)
