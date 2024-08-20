@@ -7,7 +7,6 @@
 - 👀 I’m interested in [Nodejs](https://nodejs.org/en/), [GoLang](https://go.dev/), [Python](https://www.anaconda.com/products/distribution), [Kotlin](https://kotlinlang.org/).
 - 🌟 I'm favorite in [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [NextronJS](https://github.com/saltyshiomix/nextron), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Ionic](https://ionicframework.com/).
 - 🍾 Discord: [`Aiz#8582`](https://discord.com/users/248843732412006401)
-- 📩 Email: [`sasit2555@gmail.com`](mailto:sasit2555@gmail.com)
 
 [![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
 
