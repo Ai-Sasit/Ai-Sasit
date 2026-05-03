@@ -6,7 +6,7 @@
 - 🎓 I graduated in faculty of computer science at [ubon ratchathani university](https://www.ubu.ac.th/).
 - 👀 I’m interested in [Nodejs](https://nodejs.org/en/), [GoLang](https://go.dev/), [Python](https://www.anaconda.com/products/distribution), [Kotlin](https://kotlinlang.org/).
 - 🌟 I'm favorite in [ReactJS](https://reactjs.org/), [VueJS](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Vite](https://vite.dev/).
-* 🧊 I'm used to work with [Lightsail](https://aws.amazon.com/th/lightsail/), [Lighthouse](https://www.tencentcloud.com/act/pro/lighthouse), [fly.io](https://fly.io/), [Vercel](https://vercel.com/), [Firebase](https://firebase.google.com/)
+- 🧊 I'm used to work with [Lightsail](https://aws.amazon.com/th/lightsail/), [Lighthouse](https://www.tencentcloud.com/act/pro/lighthouse), [fly.io](https://fly.io/), [Vercel](https://vercel.com/), [Firebase](https://firebase.google.com/)
 - 🍾 Discord: [`Aiz#8582`](https://discord.com/users/248843732412006401)
 
 [![discord](https://discordapp.com/api/guilds/242665251487612928/embed.png?style=banner2)](https://discord.gg/VwKwd9f)
